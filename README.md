@@ -47,7 +47,3 @@ Size per timestamp : 12.7815606924 bits
 ### What's next ?
 
 You are welcome if you like to contribute. I believe the compression degree can still be improved.
-
-Also, in case of any queries with the code here, feel free to drop me an email on aliaskar1024@gmail.com. 
-
-Always happy to help ! :)
